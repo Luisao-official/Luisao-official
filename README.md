@@ -1,13 +1,13 @@
 <h1 align="center"> Luisão Alves </h1>
     
 <div align="center">
-<b>Mechanical Engineer Student | Electronics hobbyist | Musician | 🎶⚙💾</b>
+<b>Mechanical Engineer Student | Electronics hobbyist | Musician | 🎶⚙💾🎓</b>
 <br>
 <br>
 
 <blockquote>
     <p><i>
-        Greatness is less about where you stand and more about the direction you refuse to stop moving. 
+        "Motivated by growth and committed to continuous improvement. Track record of tackling challenges and delivering results."
     </i></p>
 </blockquote>
 </div>
