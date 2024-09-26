@@ -27,7 +27,7 @@
 <div align="right" style="margin:auto">
      <a href="https://github.com/Luisao-official">
         <img height="170em"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisao-official&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=synthwave&title_color=4a86d1&custom_title=My%20favorite%20languages"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisao-official&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=dark&title_color=4a86d1&custom_title=My%20favorite%20languages"
              alt="Most used languages"
              align="right">
     </a>
@@ -49,9 +49,8 @@ I am currently working for the [@DragonIF](https://www.instagram.com/dragonif.if
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a><a href="https://www.python.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.rust-lang.org/" target="blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a><a href="https://nodejs.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a><a href="https://www.mathworks.com/products/matlab.html" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a><a href="https://www.haskell.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/><a></a>
-</p>
+<p align="center"><a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a><a href="https://www.haskell.org/" target="_blank"><img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" /></a><a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a><a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a><a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a><a href="https://tauri.app/" target="_blank"><img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" alt="Tauri" /></a><a href="https://www.qt.io/" target="_blank"><img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt" /></a><a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a><a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /></a><a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" /></a><a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a><a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
+
 
 </details>
 
@@ -75,7 +74,7 @@ I am currently working for the [@DragonIF](https://www.instagram.com/dragonif.if
 <div align="center" style="margin:auto">
      <a href="https://github.com/Luisao-official">
         <img height="170em"
-             src="https://github-readme-stats.vercel.app/api?username=Luisao-official&hide=contribs,prs&theme=synthwave"
+             src="https://github-readme-stats.vercel.app/api?username=Luisao-official&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
              alt="Most used languages"
              align="center">
     </a>
