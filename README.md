@@ -59,7 +59,7 @@ I am currently working for the [@DragonIF](https://www.instagram.com/dragonif.if
 ---
 
 <div align="center">
-<!-- Add buttons here
+<!-- Add buttons when there's a need for social profile buttons
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://www.polywork.com/)
@@ -74,8 +74,8 @@ I am currently working for the [@DragonIF](https://www.instagram.com/dragonif.if
 <div align="center" style="margin:auto">
      <a href="https://github.com/Luisao-official">
         <img height="170em"
-             src="https://github-readme-stats.vercel.app/api?username=Luisao-official&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
-             alt="Most used languages"
+             src="https://github-readme-stats.vercel.app/api?username=Luisao-official&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+             alt="Stats"
              align="center">
     </a>
 </div>
